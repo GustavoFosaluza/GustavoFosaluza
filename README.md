@@ -1,8 +1,4 @@
 ## Olá! Eu sou o Gustavo Soares Fosaluza
-
-- 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudante de Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/GustavoFosaluza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFosaluza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
